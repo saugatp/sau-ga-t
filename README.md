@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sau-ga-t
-- 👀 I’m interested in Dart, Javascript, Java and Kotlin
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in Java, Kotlin and Dart
+- 🌱 I’m currently doing MSc. Computing @ Northumbria University
 - 💞️ I’m looking to collaborate on anything
 - 📫 Email: poudelsaugat45@gmail.com
 
